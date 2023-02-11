@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Data Science with Infoshare Academy
 - 🦸‍♀️ I would like to become a Junior Data Scientist 
 - 🔭 I seek out new knowledge and actively develop new skills
-- 📫 How to reach me: joanna.zielinska1996.jz@gmail.com
+- 📫 How to reach me: joanna.zielinska.1996.jz@gmail.com
 
 <h2>Linkedin</h2>
 
